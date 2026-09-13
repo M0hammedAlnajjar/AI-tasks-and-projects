@@ -2,6 +2,14 @@
 
 A repository for AI learning tasks and projects.
 
+## Workbooks
+
+| Day | Completed workbook | Page previews |
+| --- | --- | --- |
+| Day 1 | [Word document](Day1_TasksWorkbook_Completed.docx) | [9 pages](#workbook-preview) |
+| Day 2 | [PDF - 12 tasks, 21 pages](Day2_TasksWorkbook_Completed.pdf) | [View all 21 pages](assets/day2/README.md) |
+| Day 3 | [PDF - 10 tasks, 28 pages](Day3_TasksWorkbook_Completed.pdf) | [View all 28 pages](assets/day3/README.md) |
+
 ## Day 1
 
 - [Download the completed tasks workbook](Day1_TasksWorkbook_Completed.docx)
@@ -48,3 +56,22 @@ All 9 pages are shown below. Click any image to open it at full size.
 #### Page 9
 
 [![Day 1 completed tasks workbook - page 9 of 9](assets/day1/page-09.png)](assets/day1/page-09.png)
+
+## Day 2
+
+Completed written exercises covering workflow design, CRTFC prompting, professional communication, meeting minutes, multi-document analysis, and presentation planning.
+
+- [Open the completed PDF](Day2_TasksWorkbook_Completed.pdf)
+- [Download PDF](https://github.com/M0hammedAlnajjar/AI-tasks-and-projects/raw/refs/heads/main/Day2_TasksWorkbook_Completed.pdf)
+- [Browse all 21 page images](assets/day2/README.md)
+
+## Day 3
+
+Completed written exercises covering data quality, cleaning, sales analysis, customer feedback, reusable automation prompts, sprint planning, and a capstone workflow.
+
+- [Open the completed PDF](Day3_TasksWorkbook_Completed.pdf)
+- [Download PDF](https://github.com/M0hammedAlnajjar/AI-tasks-and-projects/raw/refs/heads/main/Day3_TasksWorkbook_Completed.pdf)
+- [Browse all 28 page images](assets/day3/README.md)
+
+The workbooks label sample assumptions and illustrative feedback. The capstone includes a manual prompt demonstration and presentation plan; external integrations and classroom peer review are not presented as completed live activities.
+
